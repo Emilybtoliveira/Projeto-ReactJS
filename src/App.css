@@ -1,0 +1,28 @@
+#App {
+  background-color: #F5F5DC;
+  height: 1650px;
+}
+
+#NavBarBackground{
+  background-color: #9ACD32;
+}
+
+#CardsBackground{
+  background-color: white;
+}
+
+#ProgressStyle1{
+  height: 100px;
+  text-align: center;
+  background-color: #A2CD5A;
+}
+
+#ProgressStyle2{
+  width: 500px;
+  margin-left: 500px;
+}
+
+#Jumbotron2Style1{
+  margin-top:-800px;
+  background-color: #F5F5DC;
+}
